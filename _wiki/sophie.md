@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sophie
+title: Sophie Liu
 ---
 
-**Sophie** ist die Präsidentin des Student Councils an der [Magierakademie Hong Kong]({{ "wiki/akadamie" | relative_url }}). Sie legt bald eine Prüfung zur Erzmagierin ab.
+**Sophie Liu** ist die Präsidentin des [Student Councils]({{ "wiki/student_council" | relative_url }}) an der [Magierakademie Hong Kong]({{ "wiki/akademie" | relative_url }}). Sie legt bald eine Prüfung zur Erzmagierin ab.

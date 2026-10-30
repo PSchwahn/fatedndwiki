@@ -14,3 +14,5 @@ Die Heldengeister fallen in verschiedene Klassen, wie zum Beispiel:
 * Assassin
 * Berserker
 Für die Beschwörung dieser wird meist ein Artefakt verwendet, welches mit dem jeweiligen Geist in Verbindung steht.
+
+Der letzte Gralskrieg wurde von [Makoto Matsudaira]({{ "wiki/sensei" | relative_url }}) gewonnen.
